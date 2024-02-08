@@ -1,5 +1,9 @@
 ### Hi Universe 👋
 
+<a href= "https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript?style=plastic&logo=javascript"/></a>
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwangminjun&show_icons=true&theme=radical)
 
 <!--
