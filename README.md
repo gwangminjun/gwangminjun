@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Universe 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwangminjun&show_icons=true&theme=radical)
 
 <!--
 **gwangminjun/gwangminjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
